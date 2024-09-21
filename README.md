@@ -74,7 +74,7 @@ Follow these steps to set up the project and start detecting animals using YOLO:
 
 6. **Train YOLO Model**
    ```
-   python train.py --img 640 --batch 16 --epochs 100 --data data.yaml --weights yolov5s.pt
+   python train.py --img 640 --batch 16 --epochs 100 --data data.yaml --weights yolov8s.pt
    ```
 
 7. **Run Inference**
