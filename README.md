@@ -28,7 +28,7 @@ This project aims to enhance safety and awareness in rural areas near forest reg
    - Maintains a database of past animal attacks.
    - Identifies and highlights high-risk regions for increased vigilance.
 
-      ## Getting Started
+## Getting Started
 
 Follow these steps to set up the project and start detecting animals using YOLO:
 
