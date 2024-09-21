@@ -51,7 +51,7 @@ Follow these steps to set up the project and start detecting animals using YOLO:
 
 4. **Prepare Your Dataset**
    - Collect images of animals you want to detect.
-   - Annotate the images using a tool like LabelImg in YOLO format.
+   - Annotate the images into YOLO format.
    - Organize your dataset into the following structure:
      ```
      dataset/
