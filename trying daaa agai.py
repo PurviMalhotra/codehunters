@@ -1,8 +1,8 @@
-#creation of yaml file for yolo training
+
 import os
 import yaml
 dataset_folder = 'C:/Users/cvedi/OneDrive/Desktop/newpy/myenv/myenv/Scripts/codehunters/datasetvals' 
-#dic 
+
 data_dict = {
     'train': [],
     'val': [],  
